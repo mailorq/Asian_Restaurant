@@ -1,6 +1,6 @@
 # 🍜 Asian Restaurant
 
-## Final Project for the 2nd Semester of Python (Flask)
+## Flask project
 **Author:**  mailor
 
 ### Description
