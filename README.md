@@ -1,7 +1,7 @@
 # 🍜 Asian Restaurant
 
 ## Final Project for the 2nd Semester of Python (Flask)
-**Author** mailor
+**Author** > mailor
 
 ### Description
 Asian Restaurant is a restaurant simulation with a fully functional website where users can browse the menu and place orders.
