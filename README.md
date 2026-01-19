@@ -8,7 +8,7 @@ Asian Restaurant is a restaurant simulation with a fully functional website wher
 
 ## Technologies Used
 - **Backend**: Flask, SQLite  
-- **Frontend**: HTML, CSS, Tailwind CSS, JavaScript  
+- **Frontend**: HTML, Tailwind CSS, JavaScript  
 - **Language**: Python  
 
 ## Implemented Features
